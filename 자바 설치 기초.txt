@@ -1,8 +1,0 @@
-[JDK]
-https://jdk.java.net/18/
-
-[이클립스]
-https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-03/R/eclipse-inst-jre-win64.exe&mirror_id=1273
-
-[설치참고]
-https://velog.io/@ybnr_92/%EC%9C%88%EB%8F%84%EC%9A%B010-JDK-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EC%84%A4%EC%B9%98
